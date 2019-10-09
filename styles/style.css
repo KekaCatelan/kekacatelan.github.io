@@ -48,3 +48,16 @@ span {
 .imagem-modal{
     width: 100%;
 }
+
+.botao-card{
+background-color: #7E459B;
+border: none;
+}
+
+.botao-card:hover{
+    background-color: #8a2be2;
+}
+
+.habilidades i{
+    font-size: 2rem;
+}
